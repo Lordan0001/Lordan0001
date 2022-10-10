@@ -1,1 +1,1 @@
-![Garbage](garbage.png)
+![mem](mem.jpg)
